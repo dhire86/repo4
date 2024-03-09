@@ -1,2 +1,0 @@
-text LR
-remote content file C
